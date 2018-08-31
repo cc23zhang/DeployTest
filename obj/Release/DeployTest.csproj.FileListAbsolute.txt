@@ -88,3 +88,4 @@ C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Release\DeployTest.cspro
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Release\DeployTest.csproj.CopyComplete
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Release\DeployTest.dll
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Release\DeployTest.pdb
+C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Release\DeployTest.csprojAssemblyReference.cache
