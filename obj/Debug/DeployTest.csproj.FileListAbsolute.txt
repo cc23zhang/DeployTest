@@ -89,3 +89,6 @@ C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Debug\DeployTest.csproj.
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Debug\DeployTest.csproj.CopyComplete
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Debug\DeployTest.dll
 C:\Users\cecilia\source\repos\DeployTest\DeployTest\obj\Debug\DeployTest.pdb
+C:\Users\cecilia\source\repos\DeployTest\DeployTest\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\cecilia\source\repos\DeployTest\DeployTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cecilia\source\repos\DeployTest\DeployTest\bin\Microsoft.ApplicationInsights.xml
